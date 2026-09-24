@@ -13,7 +13,7 @@ Game types (see GAME_TYPES): "eightball", "nineball", "snooker", "threecushion"
 
 Note that, "eightball" refers to American 8-ball, not English 8-ball so there
 is no implementation for English 8-ball in here
-
+```
 Functions:
     Setup:
         new_game
@@ -172,4 +172,4 @@ Examples:
         .winner=None,
         .score=Counter()
     )
-
+```
