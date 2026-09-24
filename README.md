@@ -54,7 +54,6 @@ Functions:
         pockets_open_to
         is_path_blocked
 
-
 Examples:
     system
     ├── .cue        Cue(
